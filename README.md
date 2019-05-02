@@ -8,3 +8,8 @@ Add yours new tasks and delete them when they're done!
 
 * react-bootstrap
 * react-icon
+
+## Screenshot
+
+Inline-style: 
+![alt text](https://image.noelshack.com/fichiers/2019/18/5/1556835440-screeenshort-todo.png "Screenshot")
